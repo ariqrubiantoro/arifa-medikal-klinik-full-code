@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{712F5850-C940-3B42-B3A6-FD942C190F31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E41C47C7-D18A-3635-A71F-6CC86E645F11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

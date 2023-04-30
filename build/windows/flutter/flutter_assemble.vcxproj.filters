@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\build\windows\CMakeFiles\c1f5707f78ac8c02465e882123ed10a0\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\build\windows\CMakeFiles\403425a392e2fc79c3d32d38b352683e\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\PROJECT FLUTTER\WEB\codingan\arifa-medikal-klinik-cek-up\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{712F5850-C940-3B42-B3A6-FD942C190F31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
